@@ -7,84 +7,84 @@
     {
       "title": "Hell Bells",
       "artist": "AC/DC",
-      "genre": "Metal",
+      "genre": ["Metal"],
       "released": "1980"
     },
 
     {
       "title": "Megan's Piano",
       "artist": "Megan Thee Stallion",
-      "genre": "Hip-Hop/Rap",
+      "genre": ["Hip-Hop" , "Rap"],
       "released": "2021"
     },
 
     {
       "title": "REPEAT IT (with Gunna)",
       "artist": "Gunna and Lil Tecca",
-      "genre": "Hip-Hop/Rap",
+      "genre": ["Hip-Hop", "Rap"],
       "released": "2021"
     },
 
     {
       "title": "Goodbye",
       "artist": "Mimi Webb",
-      "genre": "Pop",
+      "genre": ["Pop"],
       "released": "2022"
     },
 
     {
       "title": "Deep End",
       "artist": "Dayglow",
-      "genre": "New Wave, Synthpop",
+      "genre": ["New Wave", "Synthpop"],
       "released": "2022"
     },
 
     {
       "title": "Her",
       "artist": "Megan Thee Stallion",
-      "genre": "Hip-Hop/Rap",
+      "genre": ["Hip-Hop", "Rap"],
       "released": "2022"
     },
 
     {
       "title": "we'll make this ok (with Travis Backer)",
       "artist": "Renforshort, Travis Backer",
-      "genre": "Alternative/Indie, Pop",
+      "genre": ["Alternative", "Indie, Pop"],
       "released": "2022"
     },
 
     {
       "title": "VINCENT VAN GOGH",
       "artist": "Neville",
-      "genre": "Pop",
+      "genre": ["Pop"],
       "released": "2022"
     },
 
     {
       "title": "Marble",
       "artist": "SHOCKZ, Rebecca Helena, Neptunica",
-      "genre": "Dance/Electronic",
+      "genre": ["Dance", "Electronic"],
       "released": "2021"
     },
 
     {
       "title": "Adelaide",
       "artist": "Johnny Orlando",
-      "genre": "Pop",
+      "genre": ["Pop"],
       "released": "2020"
     },
 
     {
       "title": "SUVs (Black on Black)",
       "artist": "Jack Harlow, Pooh Shiesty",
-      "genre": "Hip-Hop/Rap",
+      "genre": ["Hip-Hop", "Rap"],
       "released": "2021"
     },
 
     {
       "title": "Girls",
       "artist": "Justus Bennetts",
-      "genre": "Alternative/Indie, Pop",
+      "genre": ["Alternative/Indie", "Pop"],
       "released": "2022"
     }
   ]
